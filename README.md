@@ -98,13 +98,6 @@ LIMIT 5;
 
 ---
 
-## 🚀 How to Use
-
-1. Import the dataset into your SQL database.
-2. Run the `schema.sql` file to create the table.
-3. Execute queries from `queries.sql` to reproduce results.
-
----
 
 ## 📁 Project Structure
 
@@ -116,17 +109,6 @@ zepto-sql-analysis/
 ├── zepto_v2.csv
 └── README.md
 ```
-
----
-
-## 🎯 Learning Outcome
-
-This project demonstrates:
-
-* SQL query writing (SELECT, WHERE, GROUP BY, ORDER BY)
-* Data cleaning and transformation
-* Business-oriented data analysis
-* Problem-solving using real-world datasets
 
 ---
 
